@@ -1,9 +1,9 @@
 # seckill
 ### 慕课网秒杀课程
-1.Java高并发秒杀API之业务分析与DAO层
-2.Java高并发秒杀API之Service层
-3.Java高并发秒杀API之web层
-4.Java高并发秒杀API之高并发优化
+1. Java高并发秒杀API之业务分析与DAO层[DAO](http://www.imooc.com/learn/587)
+2. Java高并发秒杀API之Service层
+3. Java高并发秒杀API之web层
+4. Java高并发秒杀API之高并发优化
 
 ###### 项目已部署到腾讯云上
 <table>
