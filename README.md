@@ -20,7 +20,6 @@
 ### 项目环境
 #### 开发工具：IntelliJIDEA +Maven +Navicat
 #### 软件架构：SpringMVC +Spring +Mybatis +jdk1.8 +Tomcat +MySQL +redis
-* 服务器是用腾讯云的校园优惠，装的系统是centos7，centos7和之前版本的配置有所改变，在配置时需要注意，特别是防火墙。
 * * *
 ### 效果展示
 ![Alt text](C:\Users\XF\Desktop\简历\图片\1.png)
