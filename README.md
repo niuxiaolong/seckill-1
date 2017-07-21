@@ -24,3 +24,16 @@
 ### 效果展示
 * 商品展示列表
 ![Aaron Swartz](https://raw.githubusercontent.com/yueryueryueryuer/seckill/master/images/1.png)
+* 秒杀尚未开始的商品详情页
+![Aaron Swartz](https://raw.githubusercontent.com/yueryueryueryuer/seckill/master/images/2.png)
+* 秒杀已经结束的商品详情页
+![Aaron Swartz](https://raw.githubusercontent.com/yueryueryueryuer/seckill/master/images/3.png)
+* 点击进入详情页后先要输入手机号码
+![Aaron Swartz](https://raw.githubusercontent.com/yueryueryueryuer/seckill/master/images/4.png)
+* 符合秒杀时间，秒杀接口暴露状态
+![Aaron Swartz](https://raw.githubusercontent.com/yueryueryueryuer/seckill/master/images/5.png)
+* 秒杀成功
+![Aaron Swartz](https://raw.githubusercontent.com/yueryueryueryuer/seckill/master/images/6.png)
+* 当同一手机号码，再次秒杀同一商品后，会显示重复秒杀
+![Aaron Swartz](https://raw.githubusercontent.com/yueryueryueryuer/seckill/master/images/7.png)
+
