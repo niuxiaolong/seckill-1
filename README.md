@@ -22,4 +22,5 @@
 #### 软件架构：SpringMVC +Spring +Mybatis +jdk1.8 +Tomcat +MySQL +redis
 * * *
 ### 效果展示
-![Alt text](C:\Users\XF\Desktop\简历\图片\1.png)
+* 商品展示列表
+![Aaron Swartz](https://raw.githubusercontent.com/yueryueryueryuer/seckill/master/images/1.png)
